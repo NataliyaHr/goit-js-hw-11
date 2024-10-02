@@ -1,6 +1,7 @@
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
+
 import pixabayApi from './js/pixabay-api';
 import { renderGallery, getHtmlImageList } from './js/render-functions';
 import iziToast from 'izitoast';
